@@ -1,4 +1,4 @@
-#Sharkaggle
+# Sharkaggle
 
 Ironhack proyect for data cleaning with pandas
 
@@ -13,9 +13,10 @@ Methodology
 We are going to use the data set of Kaggle about sharks, what in a first momment have to be "cleaned" carefully. For that we are going to pandas and numpy, tryng to obtain a clear table where we could have real and interesting facts.
 
 
-![Alt text](INPUT/selfie.jpg)
-
 After the cleaning, that is the main purpose of the proyect, we are going to use this data to analyze the reality of sharks attacks per country and years.
-Conclusion
+
+## Conclusion
+
+![Alt text](INPUT/selfie.jpg)
 
 During the years 2011 and 2017 there have been reported 259 selfie deaths. The real number should be even higher but we could imagine only a little portion of them are reported as the families do not want accept the fact that their sibling was hopelessly stupid.
